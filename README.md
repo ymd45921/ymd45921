@@ -1,6 +1,8 @@
-每日进化中！
+![sena.jpg](static/img/HimenoSena.jpg)
 
-![shiraha](https://img.shields.io/badge/shiraha-expert-blue?style=for-the-badge&logo=codeforces)
+<center><big>せな Lovin' you</big></center>
+
+魔法少女☆七海，每日进化中！
 
 <!--
 **ymd45921/ymd45921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
