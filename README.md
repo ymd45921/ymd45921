@@ -6,7 +6,7 @@
 
 <h1 align="center">せな Lovin' you</h1>
 
-<p>
+<p align="center">
   魔法少女☆七海，每日进化中！
 </p>
 <br>
