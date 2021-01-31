@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shiraha.cn">
-    <img src="https://cdn.jsdelivr.net/gh/ymd45921/ymd45921@main/static/avatar/HimenoSena.png" alt="Himeno Sena" width="75" height="75">
+    <img src="https://cdn.jsdelivr.net/gh/ymd45921/ymd45921@main/static/avatar/HimenoSena.png" alt="Himeno Sena" width="128" height="128">
   </a>
 </p>
 
