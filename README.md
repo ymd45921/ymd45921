@@ -12,7 +12,7 @@
 <br>
 <span align="center">
 
-[![shiraha](https://img.shields.io/badge/shiraha-expert-blue?style=flat&logo=codeforces)](http://codeforces.com/profile/shiraha)
+[![shiraha](https://img.shields.io/badge/N.N.M.-candidate%20master-purple?style=flat&logo=codeforces)](http://codeforces.com/profile/N.N.M.)
 
 </span>
 
