@@ -7,9 +7,11 @@
 <h1 align="center">せな Lovin' you</h1>
 
 <p align="center">
+  Gravitation is not responsible for people falling in love
+</p>
+<p align="center">
   魔法少女☆七海，每日进化中！
 </p>
-<br>
 <span align="center">
 
 [![shiraha](https://img.shields.io/badge/N.N.M.-candidate%20master-purple?style=flat&logo=codeforces)](http://codeforces.com/profile/N.N.M.)
