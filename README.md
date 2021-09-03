@@ -14,7 +14,12 @@
 </p>
 <span align="center">
 
-[![shiraha](https://img.shields.io/badge/N.N.M.-candidate%20master-purple?style=flat&logo=codeforces)](http://codeforces.com/profile/N.N.M.)
+  <!-- [![shiraha](https://img.shields.io/badge/N.N.M.-candidate%20master-purple?style=flat&logo=codeforces)](http://codeforces.com/profile/N.N.M.) -->
+  <p align="center">
+    <a href="http://codeforces.com/profile/N.N.M.">
+      <img src="https://img.shields.io/badge/N.N.M.-candidate%20master-purple?style=flat&logo=codeforces" alt="Codeforces N.N.M.">
+    </a>
+  </p>
 
 </span>
 
