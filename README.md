@@ -4,13 +4,13 @@
   </a>
 </p>
 
-<h1 align="center">せな Lovin' you</h1>
+<h1 align="center">N.N.M. Lovin' you</h1>
 
 <p align="center">
   Gravitation is not responsible for people falling in love
 </p>
 <p align="center">
-  魔法少女☆七海，每日进化中！
+  天才達の大いなる偉業を　世界の瞬間　切り取る
 </p>
 <span align="center">
 
